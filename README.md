@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Spotify Clone para [Vulcanos](https://pt.wikipedia.org/wiki/Vulcanos)  
+  Spotify Clone para ![Vulcanos](https://pt.wikipedia.org/wiki/Vulcanos)  
 </h1>
 
 <p align="center">
@@ -43,10 +43,8 @@
 
 ## :clipboard: Descrição
 
-O sistema a ser desenvovido na matéria tem como objetivo oferecer o serviço de streaming de música,
-semelhante ao Spotify, mas de maneira simplificada, permitindo ao usuário cadastrado,
-ouvir e buscas músicas, álbuns e bandas, como também a criação e o compartilhamento de 
-playlists entre os seus amigos na lista de amigos.   
+O sistema simula um serviço de streaming de música como o Spotify, permite ouvir músicas e adicionar
+playlists.   
 
 ## :sparkles: Funcionalidades  
 
@@ -67,6 +65,7 @@ playlists entre os seus amigos na lista de amigos.
 
 ### :label: Linguagem
 - [Python 3.8.5](https://github.com/spacexjedi/spockfython)  
+- [NodeJs](https://nodejs.org/en/download/)  
 
 
 ### :computer: Tecnologias
@@ -90,10 +89,10 @@ TODO colocar comandos
 **Windows**
 
 set FLASK_APP=app.py  
-flask run
+flask run  
 
 npm install 		
-npm start  
+npm start    
 
 
 ## :memo: Licença
