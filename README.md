@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Spotify Clone para ![Vulcanos](https://pt.wikipedia.org/wiki/Vulcanos)  
+  Spotify Clone para <a href="https://pt.wikipedia.org/wiki/Vulcanos">Vulcanos</a>
 </h1>
 
 <p align="center">
@@ -90,9 +90,9 @@ TODO colocar comandos
 
 set FLASK_APP=app.py  
 flask run  
-
-npm install 		
-npm start    
+  
+npm install   		
+npm start     
 
 
 ## :memo: Licença
