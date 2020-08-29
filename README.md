@@ -64,6 +64,7 @@ playlists.
 ## 🧐 O que tem dentro?
 
 ### :label: Linguagem
+- Java 11 + Spring boot
 - [Python 3.8.5](https://github.com/spacexjedi/spockfython)  
 - [NodeJs](https://nodejs.org/en/download/)  
 
@@ -75,6 +76,7 @@ playlists.
 ### :art: Ferramentas 
 - [Sublime Text](https://www.sublimetext.com/)   
 - [SQLite3](https://sqlite.org/index.html)  
+- IntelijIdea  
 
 
 ### :loud_sound: Sites, Recursos e APIS
@@ -87,6 +89,10 @@ playlists.
 TODO colocar comandos 
 ```
 **Windows**
+
+abrir projeto java   
+esperar impotar  
+compilar na IDE  
 
 set FLASK_APP=app.py  
 flask run  
