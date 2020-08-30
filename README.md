@@ -89,16 +89,26 @@ playlists.
 TODO colocar comandos 
 ```
 **Windows**
-
+- backend  
 abrir projeto java   
 esperar impotar  
 compilar na IDE  
 
-set FLASK_APP=app.py  
-flask run  
-  
+- frontend  
+abrir o terminal  
+navegar até a pasta de ui  
 npm install   		
 npm start     
+
+### horas de projeto  
+
+| Lockdown until ADNP start                                                                          | QUA | QUI | SEX | SAB | DOM |
+|----------------------------------------------------------------------------------------------------|-----|-----|-----|-----|-----|
+| 1 hora por dia de treino em programação e aplicações  com a Codecademy e Twitch Science Technology | 5hs | 5hs | 5hs | 5hs | 5hs |
+
+### detalhamento do estudo e mais documentação
+
+![Repo Caderno](https://github.com/spacexjedi/software_eng_101)  
 
 
 ## :memo: Licença
