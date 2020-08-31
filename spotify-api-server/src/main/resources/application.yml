@@ -1,0 +1,7 @@
+server:
+  servlet-path: /rest/
+  port: 8081
+
+#token: "BQC_DprHnxDYM3SwDFmL3rb63RuWdwmqmq3sEAXnpNYgf0OcWZcusYIC9eqaGk1t1iJJcyzx1j6LQx5usMrm0cK4NDjiF5_tvajqsbTxHDL6z03GPncnksjGMtp7tAaJbw3SBB1wr0vYurAFnQ"
+
+token: "BQBzN-LDHdZb9KWil-SYqoX-NFlr7vYs9BYhMuS1pCckeFnsQuC4rRkXCCIm5lwXdbOu4K_QaT0fYtaGL3l9dUmJD764X_jfLJ7pfpUp_LgNykU1OioUe01QN6mzaqYJNMefFtf1Bh8w61T7cq3XsRW7IWEDKuH1Pr1gZ1pP0i-acHWfzWHykRq2o87anb_FsoWnxV4MfCS1Wor7tH6T7Ej-cflB_isWaZf__UF-b1bA3_FijM8T5C0kKG4ellUdQBgkOJs1ZLhBzq-Rk649Gik_qmpXHSZO"
