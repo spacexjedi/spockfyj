@@ -104,7 +104,7 @@ npm start
 
 | Lockdown until ADNP start                                                                          | QUA | QUI | SEX | SAB | DOM |
 |----------------------------------------------------------------------------------------------------|-----|-----|-----|-----|-----|
-| 1 hora por dia de treino em programação e aplicações  com a Codecademy e Twitch Science Technology | 5hs | 5hs | 5hs | 5hs | 5hs |
+| 1 hora por dia de treino em programação e aplicações  com a Codecademy e Twitch Science Technology | 8hs | 8hs | 8hs | 8hs | 8hs |
 
 ### detalhamento do estudo e mais documentação
 
