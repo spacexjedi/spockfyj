@@ -81,7 +81,7 @@ playlists.
 
 ### :loud_sound: Sites, Recursos e APIS
 
-[Spotify](https://developer.spotify.com/documentation/web-api//)   
+[Spotify](https://developer.spotify.com/documentation/web-api/reference/search/search/)   
 
 ### :package:  Requisitos para rodar projeto
 
