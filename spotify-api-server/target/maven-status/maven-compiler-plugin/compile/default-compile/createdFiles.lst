@@ -1,0 +1,4 @@
+com/spotify/api/controller/helper/SearchModel.class
+com/spotify/api/controller/Application.class
+com/spotify/api/controller/helper/CorsFilter.class
+com/spotify/api/controller/controller/SearchController.class
