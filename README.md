@@ -98,7 +98,22 @@ compilar na IDE
 abrir o terminal  
 navegar até a pasta de ui  
 npm install   		
-npm start     
+npm start    
+
+**gitpod**  
+instalar extensão gitpod para o seu navegador  
+clicar no botão gitpod que aparece do lado do repositório  
+instalar pacote de extensões java e springboot do vscode  
+
+cd spotify-api-server  
+mvn spring-boot:run  
+
+abrir outra instância de terminal  
+cd spotify-api-ui  
+npm install  
+npm start  
+
+
 
 ### horas de projeto  
 
@@ -111,6 +126,10 @@ npm start
 |-----|-----|-----|-----|-----|-----|
 | 2hs | 2hs | 2hs | 2hs | 2hs | 2hs |
 
+
+| SEG | TER | QUA | 
+|-----|-----|-----|
+| 1hs | 2hs | 2hs | 
 ### detalhamento do estudo e mais documentação
 
 ![Repo Caderno](https://github.com/spacexjedi/software_eng_101)  
