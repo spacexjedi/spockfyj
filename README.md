@@ -130,6 +130,13 @@ npm start
 | SEG | TER | QUA | 
 |-----|-----|-----|
 | 1hs | 2hs | 2hs | 
+
+
+| SEG | TER |
+|-----|-----|
+| 5hs | 5hs |
+
+
 ### detalhamento do estudo e mais documentação
 
 ![Repo Caderno](https://github.com/spacexjedi/software_eng_101)  
