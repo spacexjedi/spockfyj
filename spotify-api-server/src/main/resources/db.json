@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Nova Trilogia",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "A Saga de Anakin Skywalker",
+        "url": "https://pt.wikipedia.org/wiki/Darth_Vader"
+      },
+      "videos": [
+        {
+          "titulo": "Ameaça Fantasma #StarWars",
+          "url": "https://www.youtube.com/watch?v=Fn06DhtXshk"
+        },
+        {
+          "titulo": "Ataque dos Clones",
+          "url": "https://www.youtube.com/watch?v=BSM3KElM970"
+        },
+        {
+          "titulo": "Vingança dos Sith #StarWars",
+          "url": "https://www.youtube.com/watch?v=zReLT0cdM8s"
+        },
+        {
+          "titulo": "Clone Wars Season 1",
+          "url": "https://www.youtube.com/watch?v=g6-yclEOgR4"
+        },
+        {
+          "titulo": "Clone Wars Season 2 #StarWars",
+          "url": "https://www.youtube.com/watch?v=t1LK-JwKt2I"
+        },
+        {
+          "titulo": "Clone Wars Season 3 #StarWars",
+          "url": "https://www.youtube.com/watch?v=F9s9SxrP6vk"
+        },
+        {
+          "titulo": "Clone Wars Season 4",
+          "url": "https://www.youtube.com/watch?v=HFIrVmWGBt8"
+        },
+        {
+          "titulo": "Clone Wars Season 5",
+          "url": "https://www.youtube.com/watch?v=GY1uKLTWnC4"
+        }        
+      ]
+    },
+    {
+      "titulo": "Trilogia Classica",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "A Saga de Luke Skywalker",
+        "url": "https://www.youtube.com/watch?v=GY1uKLTWnC4"
+      },
+      "videos": [
+        {
+          "titulo": "Uma Nova Esperança",
+          "url": "https://www.youtube.com/watch?v=MU4KRmJ7Yl0"
+        },
+        {
+          "titulo": "O Imperio Contra-Ataca",
+          "url": "https://www.youtube.com/watch?v=zcHZNn1v2lw"
+        },
+        {
+          "titulo": "O Retorno de Jedi",
+          "url": "https://www.youtube.com/watch?v=aGUXNwoFwXM"
+        },
+        {
+          "titulo": "Star Wars Rebels",
+          "url": "https://www.youtube.com/watch?v=xg5YN3LAGw4"
+        }, 
+        {
+          "titulo": "Star Wars Rebels Season 2",
+          "url": "https://www.youtube.com/watch?v=Av8GjpGK98A"
+        }
+      ]
+    },
+    {
+      "titulo": "Star Wars Recente",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "A Saga de Rey",
+        "url": "https://pt.wikipedia.org/wiki/Rey_(Star_Wars)"
+      },
+      "videos": [
+        {
+          "titulo": "O Despertar da Forca",
+          "url": "https://www.youtube.com/watch?v=2SXkyddwkLk"
+        },
+        {
+          "titulo": "Os Ultimos Jedi",
+          "url": "https://www.youtube.com/watch?v=VfIDxMsq8rA"
+        },
+        {
+          "titulo": "A Ascensao Skywalker",
+          "url": "https://www.youtube.com/watch?v=Nt9WgFYo6aA"
+        },
+        {
+          "titulo": "Rogue One",
+          "url": "https://www.youtube.com/watch?v=sUvBBrSVtBM"
+        }
+      ]
+    },
+    {
+      "titulo": "Conteudo Espacial",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Star Wars Comics",
+          "url": "https://www.youtube.com/watch?v=xWwzrm2bIDc"
+        },
+        {
+          "titulo": "LEGO Star Wars",
+          "url": "https://www.youtube.com/watch?v=p42Lf_iYF0c"
+        },
+        {
+          "titulo": "O Mandaloriano",
+          "url": "https://www.youtube.com/watch?v=XmI7WKrAtqs"
+        },
+        {
+          "titulo": "Han Solo",
+          "url": "https://www.youtube.com/watch?v=43LBMdwVQtA"
+        }
+      ]
+    },
+    {
+      "titulo": "Star Wars Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Star Wars Games",
+        "url": "https://pt.wikipedia.org/wiki/Star_Wars"
+      },
+      "videos": [
+        {
+          "titulo": "The Empire Strikes Back",
+          "url": "https://www.youtube.com/watch?v=kRwo7xvbAD0"
+        },
+        {
+          "titulo": "Star Wars X-Wings",
+          "url": "https://www.youtube.com/watch?v=Ea_e0qiZz7c"
+        },
+        {
+          "titulo": "Star Wars Dark Forces",
+          "url": "https://www.youtube.com/watch?v=Ua-d_E42C7c"
+        },
+        {
+          "titulo": "Star Wars Galaxies",
+          "url": "https://www.youtube.com/watch?v=71n914HmqfM"
+        },
+        {
+          "titulo": "Star Wars Fallen Order",
+          "url": "https://www.youtube.com/watch?v=Cnr2zX7V8Hs&t=1294s"
+        }
+      ]
+    },
+    {
+      "titulo": "Star Wars Books",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Livros de Star Wars",
+        "url": "https://pt.wikipedia.org/wiki/Lista_de_livros_de_Star_Wars"
+      },
+      "videos": [
+        {
+          "titulo": "The Jedi Path",
+          "url": "https://www.youtube.com/watch?v=i3KdFFZcy5k"
+        },
+        {
+          "titulo": "Manual do Imperio",
+          "url": "https://www.youtube.com/watch?v=H3aS3gnP4Ts"
+        },
+        {
+          "titulo": "O Livro dos Sith",
+          "url": "https://www.youtube.com/watch?v=WZZNtQyXolA"
+        },
+        {
+          "titulo": "Trilogia Thrawn",
+          "url": "https://www.youtube.com/watch?v=IDSy8Dvob68"
+        },
+        {
+          "titulo": "Kenobi",
+          "url": "https://www.youtube.com/watch?v=NayyXZkjPow"
+        }
+      ]
+    }
+  ]
+}
