@@ -55,5 +55,10 @@ Entre as razões encontradas:
 - tipos de dados que se encaixam mais em um banco de dados nosql  
 
 
+- o ambiente funciona - em cloud -
+agora estamos aqui
+https://github.com/spacexjedi/jurassic-park-software
+
+
 
 
